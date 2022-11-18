@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\bin\Debug\net6.0\Aug5Excercise.exe
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\bin\Debug\net6.0\Aug5Excercise.deps.json
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\bin\Debug\net6.0\Aug5Excercise.runtimeconfig.json
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\bin\Debug\net6.0\Aug5Excercise.dll
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\bin\Debug\net6.0\Aug5Excercise.pdb
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\obj\Debug\net6.0\Aug5Excercise.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\obj\Debug\net6.0\Aug5Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\obj\Debug\net6.0\Aug5Excercise.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\obj\Debug\net6.0\Aug5Excercise.AssemblyInfo.cs
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\obj\Debug\net6.0\Aug5Excercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\obj\Debug\net6.0\Aug5Excercise.dll
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\obj\Debug\net6.0\refint\Aug5Excercise.dll
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\obj\Debug\net6.0\Aug5Excercise.pdb
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\obj\Debug\net6.0\Aug5Excercise.genruntimeconfig.cache
+C:\Users\Admin\Desktop\repos\Aug5Excercise\Aug5Excercise\obj\Debug\net6.0\ref\Aug5Excercise.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\bin\Debug\net6.0\BankDBmanagement.deps.json
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\bin\Debug\net6.0\BankDBmanagement.dll
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\bin\Debug\net6.0\BankDBmanagement.pdb
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\bin\Debug\net6.0\BankLibrary.dll
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\bin\Debug\net6.0\BankLibrary.pdb
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\obj\Debug\net6.0\BankDBmanagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\obj\Debug\net6.0\BankDBmanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\obj\Debug\net6.0\BankDBmanagement.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\obj\Debug\net6.0\BankDBmanagement.AssemblyInfo.cs
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\obj\Debug\net6.0\BankDBmanagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\obj\Debug\net6.0\BankDBmanagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\obj\Debug\net6.0\BankDBmanagement.dll
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\obj\Debug\net6.0\refint\BankDBmanagement.dll
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\obj\Debug\net6.0\BankDBmanagement.pdb
+C:\Users\Admin\Desktop\repos\BankDBmanagement\BankDBmanagement\obj\Debug\net6.0\ref\BankDBmanagement.dll

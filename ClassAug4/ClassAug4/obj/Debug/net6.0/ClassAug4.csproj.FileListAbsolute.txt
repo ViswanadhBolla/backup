@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\bin\Debug\net6.0\ClassAug4.exe
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\bin\Debug\net6.0\ClassAug4.deps.json
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\bin\Debug\net6.0\ClassAug4.runtimeconfig.json
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\bin\Debug\net6.0\ClassAug4.dll
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\bin\Debug\net6.0\ClassAug4.pdb
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\obj\Debug\net6.0\ClassAug4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\obj\Debug\net6.0\ClassAug4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\obj\Debug\net6.0\ClassAug4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\obj\Debug\net6.0\ClassAug4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\obj\Debug\net6.0\ClassAug4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\obj\Debug\net6.0\ClassAug4.dll
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\obj\Debug\net6.0\refint\ClassAug4.dll
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\obj\Debug\net6.0\ClassAug4.pdb
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\obj\Debug\net6.0\ClassAug4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\repos\ClassAug4\ClassAug4\obj\Debug\net6.0\ref\ClassAug4.dll
